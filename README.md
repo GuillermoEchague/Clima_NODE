@@ -1,7 +1,7 @@
 # Desarrollo de aplicación Clima 
 ## curso node de Fernando Herrera en UDEMY
 
-Esta es una aplicación que se ejecuta en el teriminal o consola y permite buscar una ciudad y obtener datos como:
+Esta es una aplicación que se ejecuta en el terminal o consola y permite buscar una ciudad y obtener datos como:
 
 
 * ciudad: {nombre de la ciudad selecciona}
