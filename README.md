@@ -16,7 +16,7 @@ Esta es una aplicación que se ejecuta en el terminal o consola y permite buscar
 Para realizar lo anterior se deben consumir dos API's gratuitas las cuales son:
 
 * https://www.mapbox.com/
-* https://home.openweathermap.org/
+* https://openweathermap.org/
 
 
 
